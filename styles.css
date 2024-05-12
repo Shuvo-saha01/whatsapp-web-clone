@@ -1,0 +1,21 @@
+.darkbgc{
+    background-color: #202C33;
+}
+.icons{
+    color: #aab6bd;
+
+}
+.pic{
+    width: 3em;
+}
+.text{
+    color: #e9edef;
+}
+.icons:hover{
+    color: #aab6bd;
+}
+.vl{
+    border-right: 0.1px;
+    border-right: solid;
+    border-color: #414446;
+}
